@@ -1,0 +1,6 @@
+{
+  "name": "Shivay Cafe",
+  "description": "A luxury, premium coffee shop experience featuring gourmet espresso, artisanal lattes, and fine pastries, styled with a warm, minimalist glassmorphic aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
